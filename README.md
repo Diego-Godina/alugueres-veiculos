@@ -1,8 +1,8 @@
 # Sistema de Gestão de Aluguer de Viaturas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![POO](https://img.shields.io/badge/POO-Programação%20Orientada%20a%20Objetos-blue?style=for-the-badge)
-![Instituto Politécnico de Portalegre](https://img.shields.io/badge/Instituto%20Politécnico%20de%20Portalegre-Portugal-lightgrey?style=for-the-badge)
+![POO](https://img.shields.io/badge/Programação%20Orientada%20a%20Objetos-blue?style=for-the-badge)
+![Instituto Politécnico de Portalegre](https://img.shields.io/badge/Instituto%20Politécnico%20de%20Portalegre-lightgrey?style=for-the-badge)
 
 Projeto desenvolvido para a disciplina de **Programação Orientada a Objetos em Java**, no **Instituto Politécnico de Portalegre**, Portugal.
 
